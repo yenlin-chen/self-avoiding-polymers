@@ -19,7 +19,7 @@ if __name__ == '__main__':
     n_samples = 20
 
     # polymer length to plot
-    target_length = 200
+    target_length = 100
 
     ####################################################################
     # read data
